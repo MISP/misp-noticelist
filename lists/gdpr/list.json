@@ -1,0 +1,32 @@
+{
+  "name": "gdpr",
+  "expanded-name": "General Data Protection Regulation",
+  "ref": [
+    "http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32016R0679"
+  ],
+  "geographical_area": [
+    "EU"
+  ],
+  "notice": [
+    {
+      "category": [
+        "Person"
+      ],
+      "value": [
+        {
+          "en": "processed lawfully, fairly and in a transparent manner in relation to the data subject (‘lawfulness, fairness and transparency’)."
+        }
+      ]
+    },
+    {
+      "attribute": [
+        "passport-number"
+      ],
+      "value": [
+        {
+          "en": "adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’);"
+        }
+      ]
+    }
+  ]
+}
