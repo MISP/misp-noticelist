@@ -1,6 +1,6 @@
 # misp-notice
 
-Notice lists to inform users of MISP about legal or technical implication of using specific attributes, categories or objects.
+Notice lists to inform MISP users of the legal or technical implications of using specific attributes, categories or objects.
 
 # Lists
 
