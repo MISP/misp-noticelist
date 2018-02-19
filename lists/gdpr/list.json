@@ -9,24 +9,20 @@
   ],
   "notice": [
     {
-      "category": [
-        "Person"
-      ],
-      "value": [
-        {
-          "en": "processed lawfully, fairly and in a transparent manner in relation to the data subject (‘lawfulness, fairness and transparency’)."
-        }
-      ]
+      "scope": ["attribute", "object"],
+      "field": ["category", "meta-category"],
+      "value": ["Person"],
+      "message": {
+        "en": "processed lawfully, fairly and in a transparent manner in relation to the data subject (‘lawfulness, fairness and transparency’)."
+      }
     },
     {
-      "attribute": [
-        "passport-number"
-      ],
-      "value": [
-        {
-          "en": "adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’);"
-        }
-      ]
+      "scope": ["attribute"],
+      "field": ["type"],
+      "value": ["passport-number"],
+      "message": {
+        "en": "adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’);"
+      }
     }
   ]
 }
