@@ -1,10 +1,10 @@
 # misp-notice
 
-Notice lists to inform MISP users of the legal or technical implications of using specific attributes, categories or objects.
+Notice lists to inform MISP users of the legal, privacy or technical implications of using specific attributes, categories or objects.
 
 # Lists
 
-# Schema
+- [General Data Protection Regulation (GDPR)](/lists/gdpr/list.json) notice list.
 
 # License
 
